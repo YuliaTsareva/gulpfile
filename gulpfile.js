@@ -9,7 +9,7 @@ var gulp = require('gulp'),
 	open = require('gulp-open'),
 
 	paths = {
-		html: './app/**/*.html',
+		html: './app/index.html',
 		css: './app/styles/**/*.css',
 		js: './app/js/**/*.js'
 	};
